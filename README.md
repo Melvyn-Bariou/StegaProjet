@@ -32,6 +32,3 @@ PIL (Python Imaging Library) pour la manipulation d'images
 
 Auteur
 Ce projet a été réalisé par Melvyn Bariou et Alexis Gandemer dans le cadre du cours de NSI pour l'année scolaire 2022-2023.
-
-Licence
-Ce projet est disponible sous la licence GPL.
