@@ -1,4 +1,5 @@
 Projet de Steganographie - NSI 2022-2023
+
 Ce projet Python de stéganographie a été réalisé dans le cadre du cours de Sciences du Numérique et de l'Informatique (NSI) pour l'année scolaire 2022-2023. 
 Il propose une application permettant de cacher des messages textuels à l'intérieur d'images, en utilisant la méthode de la stéganographie.
 
